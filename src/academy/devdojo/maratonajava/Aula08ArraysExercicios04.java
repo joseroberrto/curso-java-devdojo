@@ -24,6 +24,7 @@ public class Aula08ArraysExercicios04 {
         System.out.println("-----------------------------------------");
 
 
+
         for (int i = 0; i < vetorA.length; i++) {
             vetorC[i] = vetorA[i] + vetorB[i];
         }
