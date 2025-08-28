@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava;
+package academy.devdojo.maratonajava.introducao.javacore.Sintaxebasica;
 
 public class Aula04Operadores {
     public static void main(String[] args) {

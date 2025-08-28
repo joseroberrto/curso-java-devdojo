@@ -11,5 +11,9 @@ public class AnimeTest01 {
         anime.Impreme("Bunny" , "TV",22,3);
 
 
+
+
+
+
     }
 }

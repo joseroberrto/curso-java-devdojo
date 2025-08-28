@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava;
+package academy.devdojo.maratonajava.introducao.javacore.Sintaxebasica;
 
 public class Aula06Switch {
     public static void main(String[] args) {

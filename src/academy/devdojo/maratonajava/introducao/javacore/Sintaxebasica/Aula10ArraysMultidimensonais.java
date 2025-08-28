@@ -1,6 +1,4 @@
-package academy.devdojo.maratonajava;
-
-import java.util.Scanner;
+package academy.devdojo.maratonajava.introducao.javacore.Sintaxebasica;
 
 public class Aula10ArraysMultidimensonais {
     public static void main(String[] args) {

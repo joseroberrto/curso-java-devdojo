@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava;
+package academy.devdojo.maratonajava.introducao.javacore.Sintaxebasica;
 
 import java.util.Scanner;
 
