@@ -6,13 +6,7 @@ public class AnimeTeste01 {
     public static void main(String[] args) {
         Anime anime = new Anime("One piece");
 
-        int episodios = anime.getEpisodios();
-
-
-        for (int i = 0; i < ; i++) {
-
-
-        }
-
     }
+
+
 }
