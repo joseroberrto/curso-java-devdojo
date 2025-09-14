@@ -2,19 +2,23 @@ package academy.devdojo.maratonajava.introducao.javacore.Kenumeraação.dominio;
 
 public class Cliente {
     private String nome;
-    private String tipo;
     private  TipoPessoa tipoPessoa;
+    private TipoPagamento tipoPagamento;
 
-    public Cliente(String nome, TipoPessoa tipoPessoa){
+
+    public Cliente(String nome, TipoPessoa tipoPessoa, TipoPagamento tipoPagamento) {
         this.nome = nome;
-        this.tipoPessoa= tipoPessoa;
+        this.tipoPessoa = tipoPessoa;
+        this.tipoPagamento = tipoPagamento;
     }
 
     @Override
     public String toString() {
         return "Cliente{" +
                 "nome='" + nome + '\'' +
-                ", tipo='" + tipoPessoa + '\'' +
+                ", tipoPessoa=" + tipoPessoa +
+                ", tipoInt=" + tipoPessoa.VALOR +
+                ", tipoPagamento=" + tipoPagamento +
                 '}';
     }
 }
