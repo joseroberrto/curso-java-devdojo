@@ -3,7 +3,7 @@ package academy.devdojo.maratonajava.introducao.javacore.Kenumeraação.dominio;
 public enum TipoPagamento {
     CARTAO_CREDITO{
         @Override
-        public double calcularDesconto(double valor) {//sobrescrevendo o meódo criado fora do escopo dos tipos
+        public double calcularDesconto(double valor) {//sobrescrevendo o metódo criado fora do escopo dos tipos
             return valor * 0.1;
         }
     },CARTAOD_DEBITO{
