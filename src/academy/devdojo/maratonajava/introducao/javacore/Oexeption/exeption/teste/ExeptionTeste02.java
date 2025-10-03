@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.introducao.javacore.Oexeption.exeptio.teste;
+package academy.devdojo.maratonajava.introducao.javacore.Oexeption.exeption.teste;
 
 import java.io.File;
 import java.io.IOException;
