@@ -1,4 +1,4 @@
-#  🥷Curso Java - Dev Dojo
+# 🥷Curso Java - Dev Dojo
 
 Bem-vindo ao meu repositório do **Curso de Java do Dev Dojo**!  
 
@@ -20,7 +20,7 @@ O repositório está organizado da seguinte forma:
 - Boas práticas de programação em Java
 
 ## 🔗 Link do curso
-Curso Dev Dojo: [https://www.youtube.com/c/DevDojo](https://www.youtube.com/c/DevDojo)
+Curso Dev Dojo: [https://youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&si=dwQs4DhROwnn6wjN](https://youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&si=dwQs4DhROwnn6wjN)
 
 ## ⚡ Observações
 Este repositório está em **atualização contínua**.  
