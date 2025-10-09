@@ -8,7 +8,9 @@ Bem-vindo ao meu repositório do **Curso de Java do Dev Dojo**!
 O repositório está organizado da seguinte forma:
 
 - `SintaxeBasica/` - Conceitos iniciais do Java, variáveis, tipos de dados, operadores e estruturas de controle básicas.  
-- `AIntroducaoClasses/`, `Bintroducaometodos/`, ... - Pacotes referentes às aulas, enumerados em ordem alfabética para facilitar o acompanhamento.  
+- `AIntroducaoClasses/`
+- `Bintroducaometodos/`- Pacotes referentes às aulas, enumerados em ordem alfabética para facilitar o acompanhamento
+-  ....  
   > Cada pacote contém os códigos desenvolvidos durante a aula, com comentários explicativos.
 
 ## 💻 Conteúdos abordados
