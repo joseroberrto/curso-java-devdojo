@@ -1,6 +1,5 @@
 package academy.devdojo.maratonajava.javacore.Exercicios.dominnio.teste;
 
-import academy.devdojo.maratonajava.introducao.javacore.Exercicios.dominnio.dominio.*;
 import academy.devdojo.maratonajava.javacore.Exercicios.dominnio.dominio.*;
 
 import java.util.Scanner;
