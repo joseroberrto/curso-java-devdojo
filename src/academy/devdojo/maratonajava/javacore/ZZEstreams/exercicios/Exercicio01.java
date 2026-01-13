@@ -141,7 +141,8 @@ public class Exercicio01 {
 
         //Map<Strings, List<Strings>>
         Map<String, List<String>> collect2 = pessoas.stream()
-                .collect(Collectors.groupingBy(Pessoa::getCidade, Collectors.mapping(Pessoa::getNome, Collectors.toList())));
+                .collect(Collectors.groupingBy(Pessoa::getCidade,
+                        Collectors.mapping(Pessoa::getNome, Collectors.toList())));
         System.out.println(collect2);
     }
 
