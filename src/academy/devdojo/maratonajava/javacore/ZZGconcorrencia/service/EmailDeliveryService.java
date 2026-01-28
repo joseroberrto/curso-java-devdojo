@@ -1,8 +1,8 @@
-package academy.devdojo.maratonajava.javacore.ZZFthreads.service;
+package academy.devdojo.maratonajava.javacore.ZZGconcorrencia.service;
 
 import academy.devdojo.maratonajava.javacore.ZZFthreads.dominio.Members;
 
-public class EmailDeliveryService  implements Runnable{
+public class EmailDeliveryService implements Runnable{
     private final Members members;
 
     public EmailDeliveryService(Members members) {
@@ -28,5 +28,6 @@ public class EmailDeliveryService  implements Runnable{
             }
         }
         System.out.println("Todos os emails foram enviados com sucesso");
+
     }
 }
